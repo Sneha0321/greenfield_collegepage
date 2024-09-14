@@ -1,2 +1,2 @@
 # greenfield_collegepag
-Greenfield Institute of Science is webpage made using Bootstrap. 
+Greenfield Institute of Science is a webpage built using Bootstrap. 
